@@ -1,6 +1,6 @@
 # Тестовое задание
-Видео с работой приложения здесь: [демо](https://youtu.be/8Q1WXoCWqNs).
-В качестве REST API использован [json-server](https://www.npmjs.com/package/json-server).
+Видео с работой приложения здесь: [демо](https://youtu.be/8Q1WXoCWqNs). 
+В качестве REST API использован [json-server](https://www.npmjs.com/package/json-server). 
 Данные приложение получает с json-server из файла DATA_BASE.json.
 Стэк: TypeScript, React Hooks, Styled-Components, Redux Toolkit.
 Обращение к API эмулированы, в случае успеха - переход на главный экран и запись данных в файл DATA_BASE.json.
